@@ -55,4 +55,4 @@ $
 ```
 
 ## Authors
-* **Kirube Alemu** <[kirubel-web](https://github.com/kirubel-web)>
+* **Edwin Mwangi** <[eddiemws](https://github.com/eddiemws)>
